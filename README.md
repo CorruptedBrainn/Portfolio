@@ -51,7 +51,7 @@ Projects I've made and am proud of will be included here, and are ordered by age
 > - Date: August 2023
 > - Language: C++
 > - Purpose: To replicate a functional Enigma encrypting program
-> - System Requirements: Windows 10+ (Can be compiled on Linux / MacOS)
+> - System Requirements: Windows 10+
 > - State: Unstable
 > - Interface: Console
 
@@ -85,7 +85,7 @@ Projects I've made and am proud of will be included here, and are ordered by age
 > - Date: May 2024
 > - Language: C++
 > - Purpose: To randomly generate a chord progression for me to use in composition
-> - System Requirements: Windows 10+ (Can be compiled on Linux / MacOS)
+> - System Requirements: Windows 10+
 > - State: Unstable
 > - Interface: Console
 
@@ -134,7 +134,7 @@ Projects I've made and am proud of will be included here, and are ordered by age
 > - Date: November 2024
 > - Language: C++
 > - Purpose: To use common Sudoku techniques to solve puzzles.
-> - System Requirements: Windows 10+ (Can be compiled on Linux / MacOS)
+> - System Requirements: Windows 10+
 > - State: Stable
 > - Interface: Console
 
@@ -165,9 +165,26 @@ Projects I've made and am proud of will be included here, and are ordered by age
 > - Date: March 2025
 > - Language: Python
 > - Purpose: To act as an interface to simulate spacecraft hiring orders
-> - System Requirements: Python 3.12+, Windows 10+ / Linux
+> - System Requirements: Python 3.12+ & Windows 10+ / Linux
 > - State: Final
 > - Interface: Console
+
+> ### Boroughford Interurban Railway
+>
+> A game I started on a few years ago as part of a team.
+>
+> The game aims to take Auckland, as a setting, and create a train network for others to play on.
+>
+> The game is hosted on Roblox, and is currently in paid access while we establish core systems.
+>
+> ---
+>
+> - Date: August 2025
+> - Languages: Luau
+> - Purpose: To showcase what Auckland's rail network could look like
+> - System Requirements: Roblox (Mobile, PC)
+> - State: Alpha Release
+> - Interface: Roblox Studio
 
 > ### The VALUE
 > 
@@ -182,9 +199,9 @@ Projects I've made and am proud of will be included here, and are ordered by age
 > ---
 >
 > - Date: August 2025
-> - Language: Python, C++, Valuescript
+> - Languages: Python, C++, Valuescript
 > - Purpose: To teach players important programming concepts
-> - System Requirements: Windows 11 (x64)
+> - System Requirements: Windows 11+ (x64)
 > - State: Unstable
 > - Interface: PySide6
 
@@ -197,6 +214,10 @@ Projects I've made and am proud of will be included here, and are ordered by age
 > This means I program the code that makes our robot move, and allows us to compete.
 >
 > I'll be continuing this until the season ends, which will be early 2026.
+
+> ### Boroughford Interurban Railway
+>
+> The project is still active, and we'd like to grow it further.
 
 > ### The VALUE
 >
