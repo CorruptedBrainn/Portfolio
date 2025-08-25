@@ -1,0 +1,53 @@
++---------------------------+
+| Mars Trip Rocket Planning |
++---------------------------+
+
+==== Welcome! ====
+--< Press any key to Start >--
+==== Choose your rocket ====
+ | Current Cost: $0 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Backspace   | Navigation >--
+==== Choose your rocket ====
+ | Current Cost: $5,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day (SELECTED) >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Page Navigation ====
+ | Enter the Corresponding Page Number to Navigate there | 
+
+--< Page 0       | Cancel Transaction >--
+--< Page 1       | Welcome / Home Page >--
+--< Page 2       | Rocket Selection Page >--
+==== Welcome! ====
+--< Press any key to Start >--
+==== Choose your rocket ====
+ | Current Cost: $5,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day (SELECTED) >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Page Navigation ====
+ | Enter the Corresponding Page Number to Navigate there | 
+
+--< Page 0       | Cancel Transaction >--
+--< Page 1       | Welcome / Home Page >--
+--< Page 2       | Rocket Selection Page >--
++--------------------------+
+| Farewell, and Safe Trip! |
++--------------------------+
+--< Press any key to End >--

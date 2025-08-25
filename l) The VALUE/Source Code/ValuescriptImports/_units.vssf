@@ -1,0 +1,54 @@
+// Name: _units.vssf
+// Version: 0.0.3-alpha
+// Description: The import module containing in game unit classes
+// Author: Nicolas Martens
+
+import _core
+import _maths
+
+class enemy_unit {
+	var x_coordinate->double = 0.0;
+	var y_coordinate->double = 0.0;
+	var orientation->double = 0.0;
+}
+
+class base_unit {
+	var x_coordinate->double = 0.0;
+	var y_coordinate->double = 0.0;
+	var orientation->double = 0.0;
+	var closest_enemy->enemy_unit;
+	var x_target->double = 0.0;
+	var y_target->double = 0.0;
+
+	func update()->int {
+		if (INTERNAL_TICKER % 500 != 0) return 0;
+		import_var(this.x_coordinate);
+		import_var(this.y_coordinate);
+		import_var(this.orientation);
+		var cl_en_x->double = 0.0;
+		var cl_en_y->double = 0.0;
+		var cl_en_ori->double = 0.0;
+		import_var(cl_en_x);
+		import_var(cl_en_y);
+		import_var(cl_en_ori);
+		this.closest_enemy.x_coordinate = cl_en_x;
+		this.closest_enemy.y_coordinate = cl_en_y;
+		this.closest_enemy.orientation = cl_en_ori;
+		return 0;
+	}
+
+	func fire_shot()->int {
+		if (INTERNAL_TICKER % 1250 != 0) return 0;
+		var shot_fired->double = 0.0;
+		export_var(shot_fired);
+		return 0;
+	}
+
+	func travel_to(var x->double, var y->double)->int {
+		this.x_target = x;
+		this.y_target = y;
+		export_var(this.x_target);
+		export_var(this.y_target);
+		return 0;
+	}
+}

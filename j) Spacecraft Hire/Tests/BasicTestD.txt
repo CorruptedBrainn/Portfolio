@@ -1,0 +1,426 @@
++---------------------------+
+| Mars Trip Rocket Planning |
++---------------------------+
+
+==== Welcome! ====
+--< Press any key to Start >--
+==== Choose your rocket ====
+ | Current Cost: $0 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Backspace   | Navigation >--
+==== Choose your rocket ====
+ | Current Cost: $8,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day (SELECTED) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose your rocket ====
+ | Current Cost: $5,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day (SELECTED) >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose your rocket ====
+ | Current Cost: $10,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day (SELECTED) >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose your rocket ====
+ | Current Cost: $8,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day (SELECTED) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose your rocket ====
+ | Current Cost: $5,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day (SELECTED) >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose your rocket ====
+ | Current Cost: $10,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day (SELECTED) >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Page Navigation ====
+ | Enter the Corresponding Page Number to Navigate there | 
+
+--< Page 0       | Cancel Transaction >--
+--< Page 1       | Welcome / Home Page >--
+--< Page 2       | Rocket Selection Page >--
+==== Choose your rocket ====
+ | Current Cost: $10,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day (SELECTED) >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose your rocket ====
+ | Current Cost: $5,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day (SELECTED) >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose your rocket ====
+ | Current Cost: $10,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day (SELECTED) >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $10,000 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (0/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $10,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (0/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (Pilot Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $10,000 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (0/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $10,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (1/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $11,000 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (1/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (Pilot Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $10,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (1/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $11,000 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (2/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $10,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (1/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $11,000 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (2/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $11,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (3/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $12,000 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (4/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $11,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (3/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose how long your Trip is ====
+ | Current Cost: $11,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Each Day will Cost $11,500 >--
+--< Trip Length: 1 Days (min-max: 1-30) >--
+--< ------------------------ >--
+--< Up Arrow    | Increase Trip Length by 1 Day >--
+--< Down Arrow  | Decrease Trip Length by 1 Day >--
+--< Left Arrow  | Increase Trip Length by 5 Days >--
+--< Right Arrow | Decrease Trip Length by 5 Days >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose how long your Trip is ====
+ | Current Cost: $23,000 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Each Day will Cost $11,500 >--
+--< Trip Length: 2 Days (min-max: 1-30) >--
+--< ------------------------ >--
+--< Up Arrow    | Increase Trip Length by 1 Day >--
+--< Down Arrow  | Decrease Trip Length by 1 Day >--
+--< Left Arrow  | Increase Trip Length by 5 Days >--
+--< Right Arrow | Decrease Trip Length by 5 Days >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose how long your Trip is ====
+ | Current Cost: $11,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Each Day will Cost $11,500 >--
+--< Trip Length: 1 Days (min-max: 1-30) >--
+--< ------------------------ >--
+--< Up Arrow    | Increase Trip Length by 1 Day >--
+--< Down Arrow  | Decrease Trip Length by 1 Day >--
+--< Left Arrow  | Increase Trip Length by 5 Days >--
+--< Right Arrow | Decrease Trip Length by 5 Days >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose how long your Trip is ====
+ | Current Cost: $241,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Each Day will Cost $11,500 >--
+--< Trip Length: 21 Days (min-max: 1-30) >--
+--< ------------------------ >--
+--< Up Arrow    | Increase Trip Length by 1 Day >--
+--< Down Arrow  | Decrease Trip Length by 1 Day >--
+--< Left Arrow  | Increase Trip Length by 5 Days >--
+--< Right Arrow | Decrease Trip Length by 5 Days >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose how long your Trip is ====
+ | Current Cost: $11,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Each Day will Cost $11,500 >--
+--< Trip Length: 1 Days (min-max: 1-30) >--
+--< ------------------------ >--
+--< Up Arrow    | Increase Trip Length by 1 Day >--
+--< Down Arrow  | Decrease Trip Length by 1 Day >--
+--< Left Arrow  | Increase Trip Length by 5 Days >--
+--< Right Arrow | Decrease Trip Length by 5 Days >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose how long your Trip is ====
+ | Current Cost: $126,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Each Day will Cost $11,500 >--
+--< Trip Length: 11 Days (min-max: 1-30) >--
+--< ------------------------ >--
+--< Up Arrow    | Increase Trip Length by 1 Day >--
+--< Down Arrow  | Decrease Trip Length by 1 Day >--
+--< Left Arrow  | Increase Trip Length by 5 Days >--
+--< Right Arrow | Decrease Trip Length by 5 Days >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose how long your Trip is ====
+ | Current Cost: $241,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Each Day will Cost $11,500 >--
+--< Trip Length: 21 Days (min-max: 1-30) >--
+--< ------------------------ >--
+--< Up Arrow    | Increase Trip Length by 1 Day >--
+--< Down Arrow  | Decrease Trip Length by 1 Day >--
+--< Left Arrow  | Increase Trip Length by 5 Days >--
+--< Right Arrow | Decrease Trip Length by 5 Days >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose how long your Trip is ====
+ | Current Cost: $126,500 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Each Day will Cost $11,500 >--
+--< Trip Length: 11 Days (min-max: 1-30) >--
+--< ------------------------ >--
+--< Up Arrow    | Increase Trip Length by 1 Day >--
+--< Down Arrow  | Decrease Trip Length by 1 Day >--
+--< Left Arrow  | Increase Trip Length by 5 Days >--
+--< Right Arrow | Decrease Trip Length by 5 Days >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose how long your Trip is ====
+ | Current Cost: $115,000 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Each Day will Cost $11,500 >--
+--< Trip Length: 10 Days (min-max: 1-30) >--
+--< ------------------------ >--
+--< Up Arrow    | Increase Trip Length by 1 Day >--
+--< Down Arrow  | Decrease Trip Length by 1 Day >--
+--< Left Arrow  | Increase Trip Length by 5 Days >--
+--< Right Arrow | Decrease Trip Length by 5 Days >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Page Navigation ====
+ | Enter the Corresponding Page Number to Navigate there | 
+
+--< Page 0       | Cancel Transaction >--
+--< Page 1       | Welcome / Home Page >--
+--< Page 2       | Rocket Selection Page >--
+--< Page 3       | Passenger / Pilot Page >--
+--< Page 4       | Trip Details Page >--
+==== Choose your rocket ====
+ | Current Cost: $115,000 | 
+ | Enter the Corresponding Option Number to Choose it | 
+
+--< Rocket 1     | Rocket Lab Photon: $10,000 / Day (SELECTED) >--
+--< Rocket 2     | SpaceX Falcon 9: $5,000 / Day >--
+--< Rocket 3     | Blue Origin New Shepard: $8,000 / Day >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose who's Coming ====
+ | Current Cost: $115,000 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Up / Down   | Cycle Through Passengers: $500 / Passenger / Day (3/10) >--
+--< [Y] / [N]   | Choose Pilot: $500 / Day (None Selected) >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Choose how long your Trip is ====
+ | Current Cost: $115,000 | 
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Each Day will Cost $11,500 >--
+--< Trip Length: 10 Days (min-max: 1-30) >--
+--< ------------------------ >--
+--< Up Arrow    | Increase Trip Length by 1 Day >--
+--< Down Arrow  | Decrease Trip Length by 1 Day >--
+--< Left Arrow  | Increase Trip Length by 5 Days >--
+--< Right Arrow | Decrease Trip Length by 5 Days >--
+--< ------------------------ >--
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Final Cost Details ====
+ | Cost of Rocket (Rocket Lab Photon): $10,000 per Day | 
+ | Cost of a Passenger: $500 per Day | 
+ | 	Number of Passengers: 3 | 
+ | 	Total Passenger Cost: $1,500 per Day | 
+ | Daily Cost: $11,500 | 
+==== Total Cost: $115,000 ====
+
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Page Navigation ====
+ | Enter the Corresponding Page Number to Navigate there | 
+
+--< Page 0       | Cancel Transaction >--
+--< Page 1       | Welcome / Home Page >--
+--< Page 2       | Rocket Selection Page >--
+--< Page 3       | Passenger / Pilot Page >--
+--< Page 4       | Trip Details Page >--
+--< Page 5       | Cost Calculation Page >--
+==== Final Cost Details ====
+ | Cost of Rocket (Rocket Lab Photon): $10,000 per Day | 
+ | Cost of a Passenger: $500 per Day | 
+ | 	Number of Passengers: 3 | 
+ | 	Total Passenger Cost: $1,500 per Day | 
+ | Daily Cost: $11,500 | 
+==== Total Cost: $115,000 ====
+
+ | Enter the Corresponding Option Key to Choose it | 
+
+--< Enter Key   | Next Page >--
+--< Backspace   | Navigation >--
+==== Thank you! ====
+ | Final Cost: $115,000 for 10 days | 
+
++--------------------------+
+| Farewell, and Safe Trip! |
++--------------------------+
+--< Press any key to End >--

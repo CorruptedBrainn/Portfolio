@@ -1,0 +1,8 @@
+// Name: _core.vssf
+// Version: 0.0.3-alpha
+// Description: The import module containing the ticker
+// Author: Nicolas Martens
+
+static var INTERNAL_TICKER->int = -1;
+INTERNAL_TICKER++;
+INTERNAL_TICKER %= 5000;

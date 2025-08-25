@@ -1,0 +1,9 @@
+// Name: _maths.vssf
+// Version: 0.0.3-alpha
+// Description: The import module containing various math functions
+// Author: Nicolas Martens
+
+func abs(var val->double)->double {
+	if (val >= 0.0) return val;
+	return val * -1.0;
+}
