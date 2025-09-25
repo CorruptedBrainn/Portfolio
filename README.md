@@ -198,6 +198,8 @@ Projects I've made and am proud of will be included here, and are ordered by age
 >
 > This particular branch is the assessment I submitted for school. It does not include the programming language, and has the pure math question functionality.
 >
+> The source code is not in this portfolio, but the GtiHub Repository is here: https://github.com/CorruptedBrainn/The-VALUE
+>
 > ---
 >
 > - Date: August 2025
