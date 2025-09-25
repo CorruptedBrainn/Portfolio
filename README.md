@@ -186,7 +186,7 @@ Projects I've made and am proud of will be included here, and are ordered by age
 > - State: Alpha Release
 > - Interface: Roblox Studio
 
-> ### The VALUE
+> ### The VALUE (Assessment)
 > 
 > A game I started working on as a school project & NZQA Technology Scholarship project.
 >
@@ -195,6 +195,8 @@ Projects I've made and am proud of will be included here, and are ordered by age
 > The game is designed to be an open-world type game, where players program their own game elements to interact with the world, teaching them concepts such as computational geometry, data structures, and more.
 >
 > For this, I had to implement my own programming language (Valuescript) to give me more control with game interaction, and to allow it to fit within the game elements.
+>
+> This particular branch is the assessment I submitted for school. It does not include the programming language, and has the pure math question functionality.
 >
 > ---
 >
@@ -222,6 +224,8 @@ Projects I've made and am proud of will be included here, and are ordered by age
 > ### The VALUE
 >
 > My goals are to get the game into a functional state, and potentially port it from Python / C++ to a full C++ program.
+>
+> I am still working on Valuescript as a whole. As of writing this, I have the solution file for it open in the background.
 >
 > I'd like the game to be in a state where I would be happy publishing it independantly.
 
