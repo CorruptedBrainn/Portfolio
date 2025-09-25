@@ -6,3 +6,4 @@
   - The high memory usage is due to an 11(?) dimensional array that I used to HARD CODE the allowed progressions and flowcharts in the code.
   - Looking back, a tree would have been a more appropriate data structure...
   - It is unfinished, but if I were to rewrite it I would add an interface and remove that horrible array.
+  - I hardcoded far too much here, and it runs extremely slowly as a result.
