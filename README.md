@@ -44,7 +44,7 @@ Projects I've made and am proud of will be included here, and are ordered by age
 > 
 > It operates purely in console, but features multiple rotor settings.
 >
-> There are 3 versions, some of which are more complete than others, and some of which have been tested more than others.
+> There are 2 versions, some of which are more complete than others, and some of which have been tested more than others.
 > 
 > ---
 >
